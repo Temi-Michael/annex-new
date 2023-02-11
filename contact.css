@@ -167,6 +167,11 @@ nav {
     border-radius: 20px;
     border-color: purple;
     outline: none;
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    font-size: small;
+    padding: 18px 25px;
+    
 }
 
 #email {
@@ -175,11 +180,38 @@ nav {
     border-radius: 20px;
     border-color: purple;
     outline: none;
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    font-size: small;
+    padding: 18px 25px;
 }
 
 #textarea {
     width: 500px;
+    height: 200px;
     border-radius: 20px;
     border-color: purple;
     outline: none;
+    resize: none;
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    font-size: small;
+    padding: 18px 25px;
 }
+
+#submit {
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: purple;
+    background-color: purple;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+}
+
+input:focus::placeholder {
+    color: transparent;
+    transition: 0.7s;
+  }
+

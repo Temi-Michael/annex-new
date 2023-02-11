@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="stylesheet" href="/index.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/aec50afae8.js" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/0fa85c1f97.js"></script>
+
+    <!-- TIMER SCRIPT -->
+    <script>
+        // Set the date we're counting down to
+        var countDownDate = new Date("Mar 10, 2023 15:37:25").getTime();
+        
+        // Update the count down every 1 second
+        var x = setInterval(function() {
+        
+          // Get today's date and time
+          var now = new Date().getTime();
+        
+          // Find the distance between now and the count down date
+          var distance = countDownDate - now;
+        
+          // Time calculations for days, hours, minutes and seconds
+          var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+          var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+          var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+          var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        
+          // Display the result in the element with id="demo"
+          document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+          + minutes + "m " + seconds + "s ";
+        
+          // If the count down is finished, write some text
+          if (distance < 0) {
+            clearInterval(x);
+            document.getElementById("demo").innerHTML = "EXPIRED";
+          }
+        }, 1000);
+        </script>
+</head>
+<!-- NAVBAR -->
+<nav>
+    <div class="nav_img">
+        <a href="#">
+            <img src="/img/exchangeweb.png" alt="Annex_Logo" class="nav_logo">
+        </a>
+    </div>
+    <div class="nav_btn">
+        <button class="home_btn">
+            <a href="#" class="home_deco">home</a>
+        </button>
+        <button class="buy_btn">
+            <a href="#" class="buy_deco">buy crypto <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+        </button>
+        <button class="live_btn">
+            <a href="#" class="live_deco">live market</a>
+        </button>
+        <button class="trade_btn">
+            <a href="#" class="trade_deco">trade <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+        </button>
+        <button class="contact_btn">
+            <a href="#" class="contact_deco">contact</a>
+        </button>
+        <button class="download_btn">
+            <a href="#" class="download_deco">download</a>
+        </button>
+    </div>
+    <div class="nav_social">
+        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        <a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    </div>
+</nav>
+<!-- SECTION 1 -->
+<section class="fwh-slide">
+    <div class="sec-1">
+        <div class="sec-1-text">
+            <div class="intro">
+               <h3 class="intro-text">
+                buy, trade and hold 350+ cryptocurrencies on annex
+               </h3> 
+                <h4 class="intro-body">Here at Annex, we are committed to user protection with strict protocols and industry-leading technical measures.
+                </h4>
+            </div>
+        </div>
+        <div class="sec-1-img">
+            <img src="" alt="" class="bg-img">
+        </div>
+        <div class="intro-btns">
+            <button class="download">
+                <a href="#" class="dwnd">download app</a>
+            </button>
+            <button class="pdf">
+                <a href="#" class="dwnd">download pdf</a>
+            </button>
+        </div>
+    </div>
+    <div class="intro-img-body">
+        <div class="intro-img">
+            <img src="/img/Coin&Smartphone.png" alt="" class="phone">
+        </div>
+    </div>
+</section>
+
+<!-- SECTION 2 -->
+    <section class="second">
+        <div class="sec-2">
+            <div class="hand">
+                <img src="/img/hand raise.jpeg" alt="Hand Raise" class="hand-raise">
+            </div>
+            <div class="about-body">
+                <div class="about">
+                    <h3 class="about-head">about us</h3>
+                    <h6 class="trust">the most trusted cryptocurrencies platform</h6>
+                    <h6 class="about-info">
+                        Here at Annex, we are committed to user protection with strict protocols and industry-leading technical measures. Annex stores 10% of all trading fees in a secure asset fund to protect a share of user funds. Personalized access control allows you to restrict devices and addresses that can access your account, for greater ease of mind. Your transaction data is secured via end-to-end encryption, ensuring that only you have access to your personal information.
+                        Stay in the know with our app and desktop client.
+                    </h6>
+                    <p><i class="fa fa-angle-right" aria-hidden="true"></i><span class="about-list">Get 24/7 customer support with our friendly customer service agent at your service.</span></p>
+                    <p><i class="fa fa-angle-right" aria-hidden="true"></i><span class="about-list">Stay up to date with the latest stories and commentary.</span></p>
+                    <p><i class="fa fa-angle-right" aria-hidden="true"></i><span class="about-list">Simple and Secure. Search popular coins and start earning.</span></p>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+<!-- SECTION 3 -->
+<section class="overlap">
+    <div class="numbers">
+        <div class="first">
+            <div class="today">
+    
+            </div>
+            <div class="month">
+    
+            </div>
+            <div class="total">
+    
+            </div>
+        </div>
+    </div>
+</section>
+<section class="question">
+    <div class="why-body">
+        <h3 class="why-us">
+            <p>
+                why us
+            </p> 
+            <p class="why">
+                the best in the crypto industry
+            </p>
+        </h3>
+    </div>
+    <div class="quest-block-body-1">
+        <div class="quest-1">
+            <p class="easy">
+                easy to start
+            </p>
+            <p class="easy-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+        <div class="quest-2">
+            <p class="safe">
+                safe and secure
+            </p>
+            <p class="safe-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+        <div class="quest-3">
+            <p class="afford">
+                affordable prices
+            </p>
+            <p class="afford-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+    </div>
+    <div class="quest-block-body-2">
+        <div class="quest-4">
+            <p class="secure">
+                Secure storage
+            </p>
+            <p class="secure-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+        <div class="quest-5">
+            <p class="protected">
+                protected by insurance
+            </p>
+            <p class="protected-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+        <div class="quest-6">
+            <p class="support">
+                24/7 Supprt
+            </p>
+            <p class="support-info">
+                Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- SECTION 4 -->
+
+<section class="annex-sale-body">
+    <div class="annex-sale">
+        <h3 class="sale-text">
+            annex token sale
+        </h3>
+        <h5 class="sale-text-2">
+            token sale countdown
+        </h5>
+        <button class="buy-now">
+            <a href="#" class="btn-buy">
+                buy now
+            </a>
+            
+        </button>
+        <!-- <p>This is for the counter countdown</p> -->
+        <p id="demo"></p>
+        <div class="icons">
+            <i class="fa fa-bitcoin" aria-hidden="true"></i>
+            <i class="fa-brands fa-ethereum"></i>
+            <i class="fa fa-cc-mastercard" aria-hidden="true"></i>
+            <i class="fa fa-cc-visa" aria-hidden="true"></i>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+
+<footer>
+    
+</footer>
+</body>
+</html>

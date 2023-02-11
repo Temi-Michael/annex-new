@@ -1,0 +1,466 @@
+/* Navbar CSS */
+
+  @import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+
+nav {
+    /* background-color: red; */
+    width: 100%;
+    height: 100px;
+    display: inline-flex;
+}
+
+.nav_img {
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.nav_logo {
+    width: 100px;
+    height: 40px;
+}
+
+.nav_btn {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.home_btn {
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.buy_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.live_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.trade_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.trade_btn:hover {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.contact_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.download_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.fa-angle-down {
+    margin-left: 10px;
+}
+
+.home_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.buy_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.live_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.trade_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.contact_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.download_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.nav_social {
+    margin-top: 37px;
+    
+}
+
+.fa {
+    color: purple;
+}
+
+.fa-twitter {
+    margin-left: 50px;
+}
+
+.fa-instagram {
+    margin-left: 50px;
+}
+
+.fa-linkedin {
+    margin-left: 50px;
+}
+
+.fwh-slide {
+    background-color: yellow;
+    display: inline-flex;
+    width: 100%;
+    height: 450px;
+    
+}
+
+.sec-1 {
+    height: 350px;
+    background-color: chartreuse;
+}
+
+.sec-1-text {
+    
+}
+
+.intro {
+    
+
+}
+
+.dwnd {
+    text-decoration: none;
+}
+
+.intro-text {
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    background-color: rosybrown;
+    width: 600px;
+    height: fit-content;
+    font-size: 40px;
+    word-spacing: 10px;
+}
+
+.intro-body {
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize; 
+    font-size: 15px;
+    background-color: blue;
+    width: 400px;
+    height: 70px;
+    letter-spacing: 3px;
+}
+
+.intro-btns {
+    margin-left: 100px;
+}
+
+.download {
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    height: 50px;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.pdf {
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    height: 50px;
+    width: 180px;
+    border-radius: 30px;
+}
+
+.intro-img-body {
+    width: 500px;
+    height: 450px;
+    background-color: blue;
+}
+
+.phone {
+    width: 500px;
+    height: 450px;
+}
+
+/* SECTION 2 */
+
+.second {
+    background-color: green;
+    display: inline-flex;
+    width: 100%;
+    height: 800px;
+    
+}
+
+.sec-2 {
+    display: inline-flex;
+}
+
+.hand {
+    width: 500px;
+    height: 600px;
+    background-color: darkred;
+    
+}
+
+.hand-raise {
+    height: 500px;
+    padding-left: 130px;
+    padding-top: 50px;
+    
+}
+
+.about-body {
+    width: 550px;
+    height: 600px;
+    background-color: tomato;
+    margin-left: 120px;
+}
+
+.about {
+
+}
+
+.about-head {
+    font-family: 'Unbounded', cursive;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+.trust {
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    font-size: small;
+}
+
+.about-info {
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    font-size: small;
+}
+
+.about-list {
+    margin-left: 5px;
+    font-family: 'Unbounded', cursive; 
+    font-size: small;
+}
+
+/* SECTION 3 */
+
+.numbers {
+    width: 1100px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 50px;
+    
+}
+
+.why-body {
+    text-align: center;
+    background-color: darkgoldenrod;
+    
+}
+
+.why-us {
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    font-size: 50px;
+    display: inline-block;
+    font-weight: bolder;
+}
+
+.why {
+    font-family: 'Unbounded', cursive; 
+    text-transform: capitalize;
+    font-size: small;
+    margin-top: -5px;
+    font-weight: lighter;
+}
+
+.quest-block-body-1 {
+    display: flex;
+    
+}
+
+.quest-1 {
+    width: 439px;
+    height: 200px;
+    background-color: deeppink;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    
+}
+
+.quest-2 {
+    width: 439px;
+    height: 200px;
+    background-color: red;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+}
+
+.quest-3 {
+    width: 439px;
+    height: 200px;
+    background-color: yellowgreen;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+}
+
+.easy-info {
+    width: 350px;
+    height: 100px;
+    
+}
+
+.safe-info {
+    width: 350px;
+    height: 100px;
+}
+
+.afford-info {
+    width: 350px;
+    height: 100px;
+}
+
+.quest-block-body-2 {
+    display: flex;
+    
+}
+
+.quest-4 {
+    width: 439px;
+    height: 200px;
+    background-color: orange;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    padding-top: 50px;
+}
+
+.quest-5 {
+    width: 439px;
+    height: 200px;
+    background-color: lightseagreen;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    padding-top: 50px;
+}
+
+.quest-6 {
+    width: 439px;
+    height: 200px;
+    background-color: darkcyan;
+    justify-content: space-evenly;
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    padding-top: 50px;
+}
+
+.secure-info {
+    width: 350px;
+    height: 100px;
+    
+}
+
+.protected-info {
+    width: 350px;
+    height: 100px;
+}
+
+.support-info {
+    width: 350px;
+    height: 100px;
+}
+
+
+/* SECTION 4 */
+
+.annex-sale-body {
+   display: inline-flex;
+}
+
+.annex-sale {
+    width: 700px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: fuchsia;
+    
+}
+
+.sale-text {
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    font-size: 35px;
+
+}
+
+.sale-text-2 {
+    text-transform: capitalize;
+    font-family: 'Unbounded', cursive; 
+    font-size: 20px;
+}
+
+.buy-now-btn {
+
+}
+
+.buy-now {
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive; 
+    width: 150px;
+    border-radius: 15px;
+    height: 60px;
+    
+}
+
+.btn-buy {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}

@@ -1,0 +1,147 @@
+/* Navbar CSS */
+
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+
+nav {
+    /* background-color: red; */
+    width: 100%;
+    height: 100px;
+    display: inline-flex;
+}
+
+.nav_img {
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.nav_logo {
+    width: 100px;
+    height: 40px;
+}
+
+.nav_btn {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.home_btn {
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.buy_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.live_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.trade_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.trade_btn:hover {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.contact_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.download_btn {
+    width: 120px;
+    height: 50px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.fa-angle-down {
+    margin-left: 10px;
+}
+
+.home_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.buy_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.live_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.trade_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.contact_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.download_deco {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Unbounded', cursive;
+    font-size: 10px;
+    color: purple;
+}
+
+.nav_social {
+    margin-top: 37px;
+    
+}
+
+.fa {
+    color: purple;
+}
+
+.fa-twitter {
+    margin-left: 50px;
+}
+
+.fa-instagram {
+    margin-left: 50px;
+}
+
+.fa-linkedin {
+    margin-left: 50px;
+}

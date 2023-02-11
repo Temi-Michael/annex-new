@@ -1,0 +1,3101 @@
+/* Homepage */
+
+position: relative;
+width: 1366px;
+height: 3056px;
+
+background: #F7F5F5;
+border-radius: 10px;
+
+
+/* Mask group */
+
+position: absolute;
+width: 1366px;
+height: 682px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 73 */
+
+position: absolute;
+width: 1366px;
+height: 682px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #39197E 0%, rgba(174, 144, 238, 0.6) 100%);
+
+
+/* image 4 */
+
+position: absolute;
+width: 1757px;
+height: 1628px;
+left: -28px;
+top: -507px;
+
+background: url(image.png);
+
+
+/* Rectangle 50 */
+
+position: absolute;
+width: 1366px;
+height: 682px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(76, 34, 164, 0.8) 0%, rgba(14, 0, 43, 0.8) 100%);
+
+
+/* Buy, trade, and hold 350+ cryptocurrencies on Annex */
+
+position: absolute;
+width: 443px;
+height: 159px;
+left: 148px;
+top: 216px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 133%;
+/* or 53px */
+
+color: #FFFFFF;
+
+
+
+/* Here at Annex, we are committed to user protection with strict protocols and industry-leading technical measures. */
+
+position: absolute;
+width: 508px;
+height: 42px;
+left: 148px;
+top: 391px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 133%;
+/* or 21px */
+
+color: #FFFFFF;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 167px;
+height: 52px;
+left: 148px;
+top: 479px;
+
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 167px;
+height: 52px;
+left: 148px;
+top: 479px;
+
+background: #4214A5;
+border-radius: 30px;
+
+
+/* Download App */
+
+position: absolute;
+width: 94px;
+height: 13px;
+left: 184px;
+top: 499px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #EDEDED;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 167px;
+height: 52px;
+left: 345px;
+top: 479px;
+
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 167px;
+height: 52px;
+left: 345px;
+top: 479px;
+
+border: 1px solid #FFFFFF;
+border-radius: 30px;
+
+
+/* Download PDF */
+
+position: absolute;
+width: 94px;
+height: 13px;
+left: 381px;
+top: 499px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #EDEDED;
+
+
+
+/* Rectangle 63 */
+
+position: absolute;
+visibility: hidden;
+width: 313px;
+height: 334px;
+left: 893px;
+top: 205px;
+
+background: #9E9E9E;
+border-radius: 22px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 1366px;
+height: 2421px;
+left: 0px;
+top: 635px;
+
+background: #F0E9FA;
+border-radius: 30px 30px 0px 0px;
+
+
+/* Coin&Smartphone */
+
+position: absolute;
+width: 525px;
+height: 434px;
+left: 750px;
+top: 240px;
+
+background: url(Coin&Smartphone.png);
+
+
+/* About Us */
+
+position: absolute;
+width: 183px;
+height: 40px;
+left: 693px;
+top: 738px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height */
+
+color: #4C4C4C;
+
+
+
+/* The Most Trusted Cryptocurrency Platform */
+
+position: absolute;
+width: 269px;
+height: 13px;
+left: 691px;
+top: 793px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4C4C4C;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 8px;
+height: 4px;
+left: 694px;
+top: 1002px;
+
+border: 3px solid #4214A5;
+transform: rotate(-90deg);
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 8px;
+height: 4px;
+left: 694px;
+top: 1056px;
+
+border: 3px solid #4214A5;
+transform: rotate(-90deg);
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 8px;
+height: 4px;
+left: 694px;
+top: 1091px;
+
+border: 3px solid #4214A5;
+transform: rotate(-90deg);
+
+
+/* Get 24/7 chat support with our friendly customer service agents at your service. Stay up to date with the latest stories and commentary. Simple & Secure. Search popular coins and start earning. */
+
+position: absolute;
+width: 474px;
+height: 108px;
+left: 718px;
+top: 989px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+
+color: #4C4C4C;
+
+
+
+/* Here at Annex, we are committed to user protection with strict protocols and industry-leading technical measures. Annex stores 10% of all trading fees in a secure asset fund to protect a share of user funds. Personalized access control allows you to restrict devices and addresses that can access your account, for greater ease of mind. Your transaction data is secured via end-to-end encryption, ensuring that only you have access to your personal information. Stay in the know with our app and desktop client. */
+
+position: absolute;
+width: 511px;
+height: 128px;
+left: 693px;
+top: 846px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 140%;
+/* or 18px */
+text-align: justify;
+
+color: #4C4C4C;
+
+
+
+/* Frame */
+
+position: absolute;
+width: 217px;
+height: 505px;
+left: 284px;
+top: 660px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 38.48%;
+top: 0.75%;
+bottom: 72.81%;
+
+background: radial-gradient(62.61% 62.61% at 50% 50%, #FFFFFF 0%, #9E73C9 31%, rgba(86, 0, 171, 0) 74%);
+
+
+/* Vector */
+
+position: absolute;
+left: 5.17%;
+right: 43.66%;
+top: 2.98%;
+bottom: 75.04%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.66%;
+right: 49.14%;
+top: 5.33%;
+bottom: 77.39%;
+
+background: #5600AB;
+opacity: 0.17;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.59%;
+right: 39.03%;
+top: 0.96%;
+bottom: 73.09%;
+
+background: url(image0_594_10935.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.57%;
+right: 54.05%;
+top: 7.44%;
+bottom: 79.49%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.83%;
+right: 73.3%;
+top: 9.5%;
+bottom: 85.73%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.1%;
+right: 67.23%;
+top: 16.43%;
+bottom: 80.08%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.13%;
+right: 59.03%;
+top: 8.44%;
+bottom: 88.82%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.59%;
+right: 73.59%;
+top: 14.19%;
+bottom: 84.6%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.75%;
+right: 70.44%;
+top: 7.48%;
+bottom: 91.52%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.98%;
+right: 55.47%;
+top: 15.63%;
+bottom: 81.03%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.58%;
+right: 56.53%;
+top: 12.31%;
+bottom: 85.58%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 80.56%;
+top: 14.93%;
+bottom: 82.98%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.04%;
+right: 62.82%;
+top: 11.59%;
+bottom: 83.97%;
+
+background: #9E73C9;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.84%;
+right: 69.59%;
+top: 0%;
+bottom: 87.29%;
+
+background: url(image1_594_10935.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 10.61%;
+right: 79.47%;
+top: 4.23%;
+bottom: 91.5%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.11%;
+right: 33.81%;
+top: 5.77%;
+bottom: 82.6%;
+
+background: url(image2_594_10935.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.04%;
+right: 43.59%;
+top: 10%;
+bottom: 86.83%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.33%;
+right: 73.57%;
+top: 15.38%;
+bottom: 74.37%;
+
+background: url(image3_594_10935.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 12.08%;
+right: 83.5%;
+top: 19.55%;
+bottom: 78.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.92%;
+right: 0.89%;
+top: 93.61%;
+bottom: 0%;
+
+background: radial-gradient(50.84% 51.26% at 50.6% 50%, #FFFFFF 0%, #9E73C9 37%, rgba(86, 0, 171, 0.1) 89%);
+
+
+/* Vector */
+
+position: absolute;
+left: 14.92%;
+right: 0.89%;
+top: 91.42%;
+bottom: 2.19%;
+
+background: #9E73C9;
+opacity: 0.5;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.41%;
+right: 50.02%;
+top: 29.61%;
+bottom: 67.88%;
+
+background: linear-gradient(90deg, #5600AB -0.12%, #1B232A 86.86%);
+
+
+/* Vector */
+
+position: absolute;
+left: 26.59%;
+right: 72.66%;
+top: 21.7%;
+bottom: 77.36%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.52%;
+right: 71.45%;
+top: 21.18%;
+bottom: 77.46%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.61%;
+right: 70.3%;
+top: 21.11%;
+bottom: 77.36%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.69%;
+right: 69.37%;
+top: 21.38%;
+bottom: 77.43%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.38%;
+right: 23.91%;
+top: 63.69%;
+bottom: 28.8%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.38%;
+right: 24.52%;
+top: 63.71%;
+bottom: 28.8%;
+
+background: #5600AB;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.68%;
+right: 66.38%;
+top: 21.65%;
+bottom: 75.79%;
+
+background: #F8AD88;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.11%;
+right: 37.05%;
+top: 30.56%;
+bottom: 61.39%;
+
+background: #F8AD88;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.5%;
+right: 43.02%;
+top: 30.73%;
+bottom: 66.73%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.98%;
+right: 33.39%;
+top: 25.12%;
+bottom: 63.27%;
+
+background: linear-gradient(164.72deg, #5600AB 40449.61%, #1B232A 50334.08%);
+
+
+/* Vector */
+
+position: absolute;
+left: 58.33%;
+right: 39.02%;
+top: 33.85%;
+bottom: 65.08%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.22%;
+right: 44.52%;
+top: 32.32%;
+bottom: 66.49%;
+
+background: linear-gradient(90deg, #5600AB 61475.01%, #1B232A 62618.37%);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.07%;
+right: 15.02%;
+top: 23.71%;
+bottom: 9.03%;
+
+background: #9E73C9;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 49.88%;
+top: 31.91%;
+bottom: 67.68%;
+
+background: linear-gradient(90deg, #5600AB 59777%, #1B232A 60519.17%);
+
+
+/* Vector */
+
+position: absolute;
+left: 52.21%;
+right: 46.55%;
+top: 33.42%;
+bottom: 65.73%;
+
+background: #231F20;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 50.76%;
+top: 32.66%;
+bottom: 66.49%;
+
+background: #231F20;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.35%;
+right: 50.51%;
+top: 33.27%;
+bottom: 63.83%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.48%;
+right: 45.23%;
+top: 34.72%;
+bottom: 64.82%;
+
+background: #EE7671;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.04%;
+right: 40.6%;
+top: 35.78%;
+bottom: 61.84%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.01%;
+right: 52.61%;
+top: 34.15%;
+bottom: 65.33%;
+
+background: #EE7671;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.99%;
+right: 31.62%;
+top: 55.45%;
+bottom: 40.9%;
+
+background: linear-gradient(90deg, #FFFFFF 12.59%, #CABADA 50.61%, #9E73C9 111.64%);
+
+
+/* Vector */
+
+position: absolute;
+left: 64.2%;
+right: 15.02%;
+top: 58.36%;
+bottom: 9.03%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.91%;
+right: 44.35%;
+top: 25.49%;
+bottom: 67.94%;
+
+background: #9E73C9;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.31%;
+right: 30.93%;
+top: 39.85%;
+bottom: 51.21%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.97%;
+right: 43.88%;
+top: 57.02%;
+bottom: 42.36%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.68%;
+right: 32.37%;
+top: 47.08%;
+bottom: 40.33%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.63%;
+right: 26.01%;
+top: 55.57%;
+bottom: 40.91%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.37%;
+right: 43.43%;
+top: 30.8%;
+bottom: 68.37%;
+
+background: #5600AB;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.97%;
+right: 47.39%;
+top: 36.25%;
+bottom: 62.86%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.64%;
+right: 23.96%;
+top: 46.06%;
+bottom: 41.74%;
+
+background: linear-gradient(106.94deg, #9E73C9 27.7%, #5600AB 98.25%);
+
+
+/* Vector */
+
+position: absolute;
+left: 47.64%;
+right: 33.74%;
+top: 46.77%;
+bottom: 41.75%;
+
+background: linear-gradient(99.13deg, #FFFFFF 58041.88%, #CABADA 64993.9%, #9E73C9 76153.73%);
+
+
+/* Vector */
+
+position: absolute;
+left: 57.97%;
+right: 25.65%;
+top: 46.29%;
+bottom: 44.54%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.95%;
+right: 32.46%;
+top: 46.48%;
+bottom: 41.6%;
+
+background: #9E73C9;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.99%;
+right: 37.23%;
+top: 54.76%;
+bottom: 42.37%;
+
+background: #F8AD88;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.09%;
+right: 37.22%;
+top: 54.76%;
+bottom: 43.33%;
+
+background: #D27358;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.68%;
+right: 24.3%;
+top: 46.18%;
+bottom: 48.18%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.63%;
+right: 29.01%;
+top: 46.05%;
+bottom: 43.5%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.88%;
+right: 43.53%;
+top: 47.93%;
+bottom: 44.55%;
+
+background: #FFFFFF;
+opacity: 0.25;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.4%;
+right: 42.65%;
+top: 55.19%;
+bottom: 43.97%;
+
+background: #FFFFFF;
+opacity: 0.25;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.14%;
+right: 65.55%;
+top: 56.51%;
+bottom: 42.66%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.87%;
+right: 13.53%;
+top: 37.6%;
+bottom: 43.08%;
+
+background: #9E73C9;
+
+
+/* Vector */
+
+position: absolute;
+left: 71%;
+right: 12.96%;
+top: 47.21%;
+bottom: 50.64%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.7%;
+right: 30.62%;
+top: 37.61%;
+bottom: 58.83%;
+
+background: #5600AB;
+opacity: 0.56;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.22%;
+right: 12.75%;
+top: 47.86%;
+bottom: 50.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.38%;
+right: 12.87%;
+top: 48.82%;
+bottom: 49.92%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.22%;
+right: 23.66%;
+top: 51.04%;
+bottom: 43.81%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.01%;
+right: 25.62%;
+top: 51.93%;
+bottom: 44.61%;
+
+background: #6E5487;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.35%;
+right: 30.8%;
+top: 53.78%;
+bottom: 45.27%;
+
+background: #FCBD68;
+
+
+/* Vector */
+
+position: absolute;
+left: 70.16%;
+right: 27.02%;
+top: 52.6%;
+bottom: 46.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.18%;
+right: 32.25%;
+top: 54.7%;
+bottom: 45.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 63.49%;
+right: 15.55%;
+top: 37.59%;
+bottom: 43.09%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.49%;
+right: 13.54%;
+top: 37.61%;
+bottom: 41.99%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.37%;
+right: 66.06%;
+top: 24.23%;
+bottom: 55.72%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.39%;
+right: 69.24%;
+top: 30.92%;
+bottom: 67.08%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.98%;
+right: 65.33%;
+top: 42.83%;
+bottom: 54.73%;
+
+background: #5600AB;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.18%;
+right: 58.75%;
+top: 56.36%;
+bottom: 41.46%;
+
+background: #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.39%;
+right: 69.12%;
+top: 31.27%;
+bottom: 66.39%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.4%;
+right: 68.95%;
+top: 31.55%;
+bottom: 65.34%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.88%;
+right: 59.05%;
+top: 56.25%;
+bottom: 41.57%;
+
+background: #CABADA;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.9%;
+right: 52.11%;
+top: 40.37%;
+bottom: 43.98%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.29%;
+right: 52.22%;
+top: 63.5%;
+bottom: 22.65%;
+
+background: #5600AB;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.61%;
+right: 55.66%;
+top: 63.51%;
+bottom: 9.81%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.65%;
+right: 52.22%;
+top: 61.81%;
+bottom: 9.57%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.82%;
+right: 53.63%;
+top: 84.7%;
+bottom: 14.2%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.27%;
+right: 17.76%;
+top: 81.93%;
+bottom: 14.43%;
+
+border: 1px solid #1B232A;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.52%;
+right: 58.05%;
+top: 90.27%;
+bottom: 6.47%;
+
+background: linear-gradient(0deg, #9E73C9 -98247.75%, #5600AB -96441.05%);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.52%;
+right: 58.05%;
+top: 92.59%;
+bottom: 6.47%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.15%;
+right: 14.98%;
+top: 90.26%;
+bottom: 5.6%;
+
+background: linear-gradient(0deg, #9E73C9 -98721.32%, #5600AB -96428.86%);
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 39.06%;
+top: 42.82%;
+bottom: 54.52%;
+
+background: #41354E;
+opacity: 0.65;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.28%;
+right: 57.07%;
+top: 42.81%;
+bottom: 55.09%;
+
+background: #CEEBE9;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.96%;
+right: 39.51%;
+top: 43.16%;
+bottom: 54.18%;
+
+background: #CEEBE9;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 39.9%;
+top: 43.31%;
+bottom: 54.33%;
+
+border: 0.5px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.14%;
+right: 44.79%;
+top: 44.08%;
+bottom: 54.61%;
+
+background: #EE7671;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.8%;
+right: 42.85%;
+top: 43.57%;
+bottom: 55.85%;
+
+background: #FCBD68;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.97%;
+right: 40.68%;
+top: 43.57%;
+bottom: 55.85%;
+
+background: #231F20;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.11%;
+right: 51.15%;
+top: 30.89%;
+bottom: 62.4%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.54%;
+right: 63.93%;
+top: 41.36%;
+bottom: 9.66%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.58%;
+right: 23.77%;
+top: 60.19%;
+bottom: 9.03%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 60.87%;
+right: 26.32%;
+top: 39.68%;
+bottom: 45.76%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.03%;
+right: 39.51%;
+top: 37.14%;
+bottom: 60.6%;
+
+background: linear-gradient(90deg, #5600AB 58183.29%, #1B232A 63946.11%);
+
+
+/* Vector */
+
+position: absolute;
+left: 44.03%;
+right: 39.51%;
+top: 37.41%;
+bottom: 60.6%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.16%;
+right: 65.56%;
+top: 23.66%;
+bottom: 54.84%;
+
+background: #5600AB;
+opacity: 0.4;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.24%;
+right: 57.82%;
+top: 23.71%;
+bottom: 61.57%;
+
+background: #FFFFFF;
+opacity: 0.45;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.47%;
+right: 36.35%;
+top: 37.53%;
+bottom: 59.41%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.77%;
+right: 46.9%;
+top: 33.58%;
+bottom: 66.28%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.52%;
+right: 51.15%;
+top: 32.81%;
+bottom: 67.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.55%;
+right: 68.25%;
+top: 60.77%;
+bottom: 32.49%;
+
+background: linear-gradient(180deg, #FFFFFF 8%, #9E73C9 55%, #FCBD68 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 65.98%;
+right: 28.83%;
+top: 62.93%;
+bottom: 30.33%;
+
+background: linear-gradient(180deg, #FFFFFF 71438.11%, #BDA2D8 74405.88%, #FCBD68 77247.37%);
+
+
+/* Vector */
+
+position: absolute;
+left: 85.73%;
+right: 9.07%;
+top: 43.4%;
+bottom: 49.86%;
+
+background: linear-gradient(180deg, #FFFFFF 53149.16%, #B599D1 56116.31%, #FCBD68 58957.19%);
+
+
+/* Vector */
+
+position: absolute;
+left: 74.59%;
+right: 20.21%;
+top: 22.93%;
+bottom: 70.33%;
+
+background: linear-gradient(180deg, #FFFFFF 33979.97%, #B9A0D2 36947.52%, #FCBD68 39788.78%);
+
+
+/* Vector */
+
+position: absolute;
+left: 15.17%;
+right: 79.63%;
+top: 44.13%;
+bottom: 49.13%;
+
+background: linear-gradient(180deg, #FFFFFF 53835.28%, #BDA4D7 56802.41%, #FCBD68 59643.27%);
+
+
+/* Vector */
+
+position: absolute;
+left: 12.32%;
+right: 82.48%;
+top: 79.05%;
+bottom: 14.2%;
+
+background: linear-gradient(180deg, #FFFFFF 86542.86%, #A287BD 89510.35%, #FCBD68 92351.57%);
+
+
+/* Vector */
+
+position: absolute;
+left: 43.77%;
+right: 51.03%;
+top: 81.33%;
+bottom: 11.93%;
+
+background: linear-gradient(180deg, #FFFFFF 88675%, #B79AD3 91642.21%, #FCBD68 94483.16%);
+
+
+/* Vector */
+
+position: absolute;
+left: 92.61%;
+right: 2.19%;
+top: 58.01%;
+bottom: 35.25%;
+
+background: linear-gradient(180deg, #FFFFFF 66831.97%, #B39BCC 69799.57%, #FCBD68 72640.89%);
+
+
+/* Vector */
+
+position: absolute;
+left: 88.33%;
+right: 6.47%;
+top: 84.7%;
+bottom: 8.56%;
+
+background: linear-gradient(180deg, #FFFFFF 91826.78%, #B99CD6 94793.81%, #FCBD68 97634.59%);
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 464px;
+height: 469px;
+left: 148px;
+top: 695px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 71.08%, rgba(255, 255, 255, 0.8) 100%);
+border-radius: 22px;
+
+
+/* Rectangle 61 */
+
+position: absolute;
+width: 1256px;
+height: 823px;
+left: 55px;
+top: 1394px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 1017px;
+height: 273px;
+left: 174px;
+top: 1244px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 50px rgba(72, 61, 94, 0.1);
+border-radius: 50px;
+
+
+/* Today’s Transactions */
+
+position: absolute;
+width: 133px;
+height: 13px;
+left: 284px;
+top: 1445px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Monthly Transactions */
+
+position: absolute;
+width: 134px;
+height: 13px;
+left: 616px;
+top: 1445px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Total Transactions */
+
+position: absolute;
+width: 115px;
+height: 13px;
+left: 955px;
+top: 1445px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* 1,378 */
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: 314px;
+top: 1403px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* 56,862 */
+
+position: absolute;
+width: 101px;
+height: 30px;
+left: 633px;
+top: 1403px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* 398,712 */
+
+position: absolute;
+width: 111px;
+height: 30px;
+left: 959px;
+top: 1403px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Why Us */
+
+position: absolute;
+width: 153px;
+height: 40px;
+left: 607px;
+top: 1617px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* The Best In The crypto Industry */
+
+position: absolute;
+width: 197px;
+height: 13px;
+left: 570px;
+top: 1672px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #848689;
+
+
+
+/* Start trading and you're good to go! Buy/sell crypto, set up recurring buys for your investments, and discover what Annex has to offer. */
+
+position: absolute;
+width: 234px;
+height: 52px;
+left: 254px;
+top: 1759px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Personalized access control allows you to restrict devices and addresses that can access your account, for greater ease of mind. */
+
+position: absolute;
+width: 247px;
+height: 52px;
+left: 254px;
+top: 1927px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Advanced Data Encryption Your transaction data is secured via end-to-end encryption, ensuring that only you have access to your personal information. */
+
+position: absolute;
+width: 234px;
+height: 65px;
+left: 588px;
+top: 1759px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Secure Asset Fund for Users (SAFU) Binance stores 10% of all trading fees in a secure asset fund to protect a share of user funds. */
+
+position: absolute;
+width: 234px;
+height: 52px;
+left: 588px;
+top: 1927px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Trade on the go. Anywhere and anytime. */
+
+position: absolute;
+width: 234px;
+height: 26px;
+left: 922px;
+top: 1759px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Easy To Start */
+
+position: absolute;
+width: 85px;
+height: 13px;
+left: 254px;
+top: 1728px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Secure Storage */
+
+position: absolute;
+width: 98px;
+height: 13px;
+left: 254px;
+top: 1896px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* 24/7 Chat Support Get 24/7 chat support with our friendly customer service agents at your service. */
+
+position: absolute;
+width: 234px;
+height: 39px;
+left: 922px;
+top: 1927px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+text-align: justify;
+
+color: #4D4D4D;
+
+
+
+/* Safe & Secure */
+
+position: absolute;
+width: 88px;
+height: 13px;
+left: 588px;
+top: 1728px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Protected By Insurance */
+
+position: absolute;
+width: 147px;
+height: 13px;
+left: 588px;
+top: 1896px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Affordable Plans */
+
+position: absolute;
+width: 105px;
+height: 13px;
+left: 922px;
+top: 1728px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* 24/7 Support */
+
+position: absolute;
+width: 84px;
+height: 13px;
+left: 922px;
+top: 1896px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #4D4D4D;
+
+
+
+/* Rectangle 64 */
+
+position: absolute;
+width: 1256px;
+height: 565px;
+left: 55px;
+top: 2348px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* Rectangle 62 */
+
+position: absolute;
+width: 596px;
+height: 312px;
+left: 391px;
+top: 2097px;
+
+background: #2A213F;
+border-radius: 50px;
+
+
+/* Annex Token Sale */
+
+position: absolute;
+width: 351px;
+height: 40px;
+left: 514px;
+top: 2147px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Token Sale Countdown */
+
+position: absolute;
+width: 167px;
+height: 15px;
+left: 600px;
+top: 2202px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 150px;
+height: 17px;
+left: 604px;
+top: 2306px;
+
+
+
+/* 183d 21h 57m 30s */
+
+position: absolute;
+width: 129px;
+height: 15px;
+left: 625px;
+top: 2307px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+opacity: 0.5;
+
+
+/* Stopwatch 1 */
+
+position: absolute;
+width: 15px;
+height: 17px;
+left: 604px;
+top: 2306px;
+
+background: url(Stopwatch.png);
+opacity: 0.5;
+
+
+/* Group 6 */
+
+position: absolute;
+width: 116px;
+height: 44px;
+left: 625px;
+top: 2247px;
+
+
+
+/* Rectangle 63 */
+
+position: absolute;
+width: 116px;
+height: 44px;
+left: 625px;
+top: 2247px;
+
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* Buy Now */
+
+position: absolute;
+width: 66px;
+height: 15px;
+left: 650px;
+top: 2261px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 15px;
+/* identical to box height */
+
+color: #2A213F;
+
+
+
+/* Buy, trade, and hold 350+ cryptocurrencies on Annex. we are committed to user protection with strict protocols and industry-leading technical measures. */
+
+position: absolute;
+width: 455px;
+height: 43px;
+left: 149px;
+top: 2520px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+
+color: #848689;
+
+
+
+/* +234-704-254-1462 */
+
+position: absolute;
+width: 143px;
+height: 17px;
+left: 172px;
+top: 2702px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+
+color: #848689;
+
+
+
+/* Lagos, Nigeria */
+
+position: absolute;
+width: 91px;
+height: 13px;
+left: 172px;
+top: 2670px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #848689;
+
+
+
+/* annexexchangeme@gmail.com */
+
+position: absolute;
+width: 195px;
+height: 13px;
+left: 172px;
+top: 2734px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #848689;
+
+
+
+/* phone_PNG48996 1 */
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 150px;
+top: 2702px;
+
+background: url(phone_PNG48996.png);
+
+
+/* Mail_png 1 */
+
+position: absolute;
+width: 12px;
+height: 8px;
+left: 149px;
+top: 2738px;
+
+background: url(Mail_png.png);
+
+
+/* Currency Wallet Currency Transaction Bitcoin Investment Annex Token Sale */
+
+position: absolute;
+width: 135px;
+height: 84px;
+left: 463px;
+top: 2670px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #4214A5;
+
+
+
+/* About Us Contact Us Services Terms & Conditions */
+
+position: absolute;
+width: 123px;
+height: 84px;
+left: 699px;
+top: 2670px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #4214A5;
+
+
+
+/* Our Services */
+
+position: absolute;
+width: 81px;
+height: 19px;
+left: 463px;
+top: 2633px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #4C4C4C;
+
+
+
+/* Quick Links */
+
+position: absolute;
+width: 73px;
+height: 19px;
+left: 699px;
+top: 2633px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #4C4C4C;
+
+
+
+/* Get In Touch */
+
+position: absolute;
+width: 81px;
+height: 19px;
+left: 149px;
+top: 2633px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #4C4C4C;
+
+
+
+/* Location_png 1 */
+
+position: absolute;
+width: 10px;
+height: 14px;
+left: 151px;
+top: 2668px;
+
+background: url(Location_png.png);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 517px;
+height: 71px;
+left: 699px;
+top: 2542px;
+
+
+
+/* Subtract */
+
+position: absolute;
+width: 517px;
+height: 56px;
+left: 699px;
+top: 2553px;
+
+background: #4214A5;
+
+
+/* Rectangle 65 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 517px;
+height: 56px;
+left: 699px;
+top: 2553px;
+
+border: 1px solid #4214A5;
+border-radius: 66px;
+
+
+/* Rectangle 67 */
+
+position: absolute;
+width: 73.86px;
+height: 14px;
+left: 750.42px;
+top: 2544.25px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 69 */
+
+position: absolute;
+width: 110px;
+height: 8px;
+left: 1055px;
+top: 2606px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 66 */
+
+position: absolute;
+width: 505px;
+height: 46px;
+left: 705px;
+top: 2558px;
+
+background: #F3F3F3;
+border-radius: 66px;
+
+
+/* Your Email */
+
+position: absolute;
+width: 67px;
+height: 21px;
+left: 753px;
+top: 2542px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #626262;
+
+
+
+/* yourmail@example.com */
+
+position: absolute;
+width: 150px;
+height: 21px;
+left: 760px;
+top: 2571px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #BCBCBC;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 110px;
+height: 45px;
+left: 1055px;
+top: 2568px;
+
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 110px;
+height: 45px;
+left: 1055px;
+top: 2568px;
+
+background: #4214A5;
+border-radius: 42px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 50px;
+height: 21px;
+left: 1087px;
+top: 2581px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #FFFFFF;
+
+
+
+/* Newsletter */
+
+position: absolute;
+width: 69px;
+height: 21px;
+left: 699px;
+top: 2477px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #4C4C4C;
+
+
+
+/* Send us an email. We'll respond shortly. */
+
+position: absolute;
+width: 246px;
+height: 21px;
+left: 699px;
+top: 2508px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 164%;
+/* or 21px */
+
+color: #848689;
+
+
+
+/* Follow Us */
+
+position: absolute;
+width: 62px;
+height: 19px;
+left: 940px;
+top: 2633px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #4C4C4C;
+
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 942px;
+top: 2667px;
+
+background: #D9D9D9;
+border-radius: 19.5px;
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 991px;
+top: 2667px;
+
+background: #D9D9D9;
+border-radius: 19.5px;
+
+
+/* Rectangle 72 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 1040px;
+top: 2667px;
+
+background: #D9D9D9;
+border-radius: 19.5px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 21px;
+height: 17px;
+left: 951px;
+top: 2679px;
+
+background: url(image.png);
+
+
+/* insta-logo 2 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1002px;
+top: 2679px;
+
+background: url(insta-logo.png);
+
+
+/* linkedIn_PNG39 - Copy 2 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 1052px;
+top: 2679px;
+
+background: url(linkedIn_PNG39 - Copy.png);
+
+
+/* Annex Cryptocurrency Exchange // All Rights Reserved. */
+
+position: absolute;
+width: 354px;
+height: 19px;
+left: 149px;
+top: 2965px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #4214A5;
+
+
+
+/* Designed by Annex Team */
+
+position: absolute;
+width: 162px;
+height: 19px;
+left: 974px;
+top: 2965px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 143.5%;
+/* identical to box height, or 19px */
+
+color: #848689;
+
+
+
+/* Group 41 */
+
+position: absolute;
+width: 135px;
+height: 17px;
+left: 616px;
+top: 2343px;
+
+
+
+/* visa_png 1 */
+
+position: absolute;
+width: 45px;
+height: 17px;
+left: 616px;
+top: 2343px;
+
+background: url(visa_png.png);
+
+
+/* mastercard_png */
+
+position: absolute;
+width: 28px;
+height: 16px;
+left: 671px;
+top: 2344px;
+
+background: url(mastercard_png.png);
+
+
+/* logo-bitcoin-4096 */
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 709px;
+top: 2343px;
+
+background: url(logo-bitcoin-4096.png);
+
+
+/* ETH_LOGO_PNG 1 */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 736px;
+top: 2344px;
+
+background: url(ETH_LOGO_PNG.png);
+
+
+/* Rectangle 51 */
+
+position: absolute;
+width: 1366px;
+height: 101px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 0px 0px 10px 10px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 99px;
+height: 52px;
+left: 402px;
+top: 24px;
+
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 99px;
+height: 52px;
+left: 402px;
+top: 24px;
+
+background: #4214A5;
+border-radius: 30px;
+
+
+/* Home */
+
+position: absolute;
+width: 38px;
+height: 13px;
+left: 433px;
+top: 45px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 22 */
+
+position: absolute;
+width: 86.5px;
+height: 13px;
+left: 520px;
+top: 44px;
+
+
+
+/* Buy Crypto */
+
+position: absolute;
+width: 71px;
+height: 13px;
+left: 520px;
+top: 44px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 10px;
+height: 5px;
+left: 596.5px;
+top: 47.5px;
+
+border: 1px solid #000000;
+
+
+/* Live Market */
+
+position: absolute;
+width: 72px;
+height: 13px;
+left: 642px;
+top: 44px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 21 */
+
+position: absolute;
+width: 53px;
+height: 13px;
+left: 754px;
+top: 44px;
+
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 10px;
+height: 5px;
+left: 797px;
+top: 47.5px;
+
+border: 1px solid #000000;
+
+
+/* Trade */
+
+position: absolute;
+width: 37px;
+height: 13px;
+left: 754px;
+top: 44px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 49px;
+height: 13px;
+left: 851px;
+top: 44px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 160px;
+height: 52px;
+left: 935px;
+top: 24px;
+
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 160px;
+height: 52px;
+left: 935px;
+top: 24px;
+
+background: #4214A5;
+border-radius: 30px;
+
+
+/* Download App */
+
+position: absolute;
+width: 94px;
+height: 13px;
+left: 970px;
+top: 44px;
+
+font-family: 'Metropolis';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 13px;
+/* identical to box height */
+
+color: #EDEDED;
+
+
+
+/* image 2 */
+
+position: absolute;
+width: 20px;
+height: 15px;
+left: 1143px;
+top: 43px;
+
+background: url(image.png);
+
+
+/* exchangeweb 1 */
+
+position: absolute;
+width: 129px;
+height: 37px;
+left: 148px;
+top: 32px;
+
+background: url(exchangeweb.png);
+
+
+/* exchangeweb 2 */
+
+position: absolute;
+width: 129px;
+height: 37px;
+left: 149px;
+top: 2468px;
+
+background: url(exchangeweb.png);
+
+
+/* insta-logo 1 */
+
+position: absolute;
+width: 19px;
+height: 19px;
+left: 1185px;
+top: 41px;
+
+background: url(insta-logo.png);
+
+
+/* linkedIn_PNG39 - Copy 1 */
+
+position: absolute;
+width: 16px;
+height: 15px;
+left: 1225px;
+top: 43px;
+
+background: url(linkedIn_PNG39 - Copy.png);
+
+
+/* BTT */
+
+position: absolute;
+width: 51px;
+height: 59px;
+left: 1224px;
+top: 623px;
+
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 1224px;
+top: 631px;
+
+background: rgba(0, 0, 0, 0.2);
+filter: blur(7.5px);
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 1224px;
+top: 623px;
+
+background: #4214A5;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 15px;
+height: 7.5px;
+left: 1242px;
+top: 645px;
+
+border: 3px solid #FFFFFF;

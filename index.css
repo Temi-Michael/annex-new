@@ -486,3 +486,8 @@ nav {
 ul {
     list-style-type: none;
 }
+
+#social {
+    width: 20px;
+    height: 20px;
+}

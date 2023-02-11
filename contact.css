@@ -155,6 +155,25 @@ nav {
     display: flex;
 }
 
+#icons {
+    width: 15px;
+    height: 15px;
+}
+
+#social {
+    width: 20px;
+    height: 20px;
+}
+
+#send {
+    text-decoration: none;
+    color: black;
+}
+
+#call {
+    text-decoration: none;
+    color: black;
+}
 
 
 .text-body {
@@ -215,3 +234,6 @@ input:focus::placeholder {
     transition: 0.7s;
   }
 
+textarea:focus::placeholder {
+    transition: 0.7s;
+}
